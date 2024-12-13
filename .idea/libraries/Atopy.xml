@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Atopy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Atopy.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
